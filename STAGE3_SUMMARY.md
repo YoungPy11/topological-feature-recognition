@@ -2,7 +2,7 @@
 
 > SRTP「基于持续同调的拓扑特征识别及其应用」· 2026.10.06 – 2026.10.07
 > 补充 `STAGE1_SUMMARY.md` / `STAGE2AB_SUMMARY.md` / `STAGE2C_SUMMARY.md`；
-> 完整正文见 `结题报告.md` **第八章**（阶段三 · 金融拓展）
+> 完整正文见 `docs/第八章_阶段三_金融拓展.md`；增量 IC 的独立片段见 `docs/8.6b_增量IC.md`
 
 ---
 
