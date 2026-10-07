@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行日志
+logs/
+*.log
+
+# LaTeX 编译产物
+*.aux
+*.nav
+*.out
+*.snm
+*.toc
+
+# 系统
+.DS_Store
+Thumbs.db
